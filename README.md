@@ -38,6 +38,7 @@ Restante: 0
 * [Hinário em Fá](https://github.com/neneias/ccb-hinario-5-fa)
 * [Hinário em Sol](https://github.com/neneias/ccb-hinario-5-sol)
 * [Hinário em Lá](https://github.com/neneias/ccb-hinario-5-la)
+* [Hinário em Si bemol](https://github.com/neneias/ccb-hinario-5-sib)
 
 ---
 
